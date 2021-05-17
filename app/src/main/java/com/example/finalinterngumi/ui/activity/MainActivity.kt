@@ -3,11 +3,8 @@ package com.example.finalinterngumi.ui.activity
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import android.util.Log
-import androidx.core.graphics.drawable.toIcon
 import coil.load
 import com.example.finalinterngumi.R
-import com.example.projectgumi.utils.Utils.TAG
 import com.example.projectgumi.utils.Utils.USER
 import com.google.android.gms.auth.api.signin.GoogleSignIn
 import com.google.android.gms.auth.api.signin.GoogleSignInClient
