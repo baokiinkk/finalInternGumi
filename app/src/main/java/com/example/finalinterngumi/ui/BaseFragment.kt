@@ -29,6 +29,7 @@ abstract class BaseFragment<VB: ViewDataBinding>: Fragment() {
         baseBinding.lifecycleOwner = this
         onCreateViews()
         return baseBinding.root
+        
     }
 
 
